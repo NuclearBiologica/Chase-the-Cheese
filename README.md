@@ -1,4 +1,8 @@
 # Chase-the-Cheese
+咳咳，这是之前的简介。
+其实现在改名为“外卖来咯！”
+wasd或者上下左右键移动表情人去拿外卖。在家无敌但不能呆的时间太长了（10s）
+自己可以玩玩就摸清楚了！
 A stupid game like Snake,use pgzero(python3.8.10)
 I am a 14-year-old boy who studies in Wuhan, a great city, and China, a great country.
 I have the idea of making this project because one of my friends made it with scratch.
